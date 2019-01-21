@@ -1,4 +1,4 @@
-### Author: Dilan Fernando<dilanfd@gmail.com>
+### Author: Dilan Fernando ([mailto](<dilanfd@gmail.com>))
 
 ### About
 
