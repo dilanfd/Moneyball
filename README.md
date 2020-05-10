@@ -1,5 +1,4 @@
 ### Author: Dilan Fernando
-### email: <dilanfd@gmail.com>
 
 ### About
 
